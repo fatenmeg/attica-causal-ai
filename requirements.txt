@@ -1,0 +1,16 @@
+# Representative dependencies imported by the research notebooks.
+# Exact original environment versions were not preserved in this archive.
+numpy
+pandas
+scipy
+scikit-learn
+networkx
+matplotlib
+seaborn
+statsmodels
+causal-learn
+dowhy
+pyreadstat
+openpyxl
+# Optional for Graphviz-backed DAG rendering; requires system Graphviz
+# pygraphviz
